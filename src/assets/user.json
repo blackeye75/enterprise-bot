@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Priyanshu Raj",
+      "preview_message": "Hey, how's everything going?",
+      "avatar": "https://images.unsplash.com/photo-1520167112707-56e25f2d7d6e?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "last_seen": "30:00",
+      "bio": "Musician, Tech Enthusiast"
+    },
+    {
+      "id": 2,
+      "name": "Jhon Mayer",
+      "preview_message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, quisquam.",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "last_seen": "10 hr ago",
+      "bio": "Account Manager, Coffee Lover"
+    },
+    {
+      "id": 3,
+      "name": "Alice Smith",
+      "preview_message": "Let's catch up this weekend! Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, quisquam.",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "last_seen": "30:00",
+      "bio": "Genius, Billionaire, Philanthropist"
+    },
+    {
+      "id": 4,
+      "name": "David Wilson",
+      "preview_message": "I've sent the documents.",
+      "avatar": "https://images.unsplash.com/photo-1623582854588-d60de57fa33f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "last_seen": "15:00",
+      "bio": "Project Manager, Entrepreneur"
+    },
+    {
+      "id": 5,
+      "name": "Priyanshu Raj",
+      "preview_message": "Hey, how are you?",
+      "avatar": "https://images.unsplash.com/photo-1520167112707-56e25f2d7d6e?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "last_seen": "yestaerday",
+      "bio": "Musician, Tech Enthusiast"
+    },
+    {
+      "id": 6,
+      "name": "Jhon Mayer",
+      "preview_message": "Meeting at 5 PM today.",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "last_seen": "45:00",
+      "bio": "Account Manager, Coffee Lover"
+    },
+    {
+      "id": 7,
+      "name": "Alice Smith",
+      "preview_message": "Let's catch up this weekend!",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "last_seen": "30:00",
+      "bio": "Genius, Billionaire, Philanthropist"
+    },
+    {
+      "id": 8,
+      "name": "David Wilson",
+      "preview_message": "I've sent the documents.",
+      "avatar": "https://images.unsplash.com/photo-1623582854588-d60de57fa33f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "last_seen": "15:00",
+      "bio": "Project Manager, Entrepreneur"
+    }
+  ]
+}

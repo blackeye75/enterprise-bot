@@ -1,0 +1,240 @@
+{
+    "data": {
+        "chat1": [
+            {
+                "from": {
+                    "type": "user1"
+                },
+                "msg": {
+                    "message": "Hey, how's everything going?"
+                }
+            },
+            {
+                "from": {
+                    "type": "user2"
+                },
+                "msg": {
+                    "message": "Pretty good! Just got back from a weekend trip."
+                }
+            },
+            {
+                "from": {
+                    "type": "user1"
+                },
+                "msg": {
+                    "message": "Oh nice! Where did you go?"
+                }
+            },
+            {
+                "from": {
+                    "type": "user2"
+                },
+                "msg": {
+                    "message": "I went hiking in the mountains. The views were amazing!"
+                }
+            }
+        ],
+        "chat2": [
+            {
+                "from": {
+                    "type": "user1"
+                },
+                "msg": {
+                    "message": "Did you finish the project?"
+                }
+            },
+            {
+                "from": {
+                    "type": "user2"
+                },
+                "msg": {
+                    "message": "Almost! Just need to finalize the presentation."
+                }
+            },
+            {
+                "from": {
+                    "type": "user1"
+                },
+                "msg": {
+                    "message": "Great! Let me know if you need any help."
+                }
+            },
+            {
+                "from": {
+                    "type": "user2"
+                },
+                "msg": {
+                    "message": "Thanks! I might reach out tomorrow."
+                }
+            },
+            {
+                "from": {
+                    "type": "user1"
+                },
+                "msg": {
+                    "message": "No problem! Good luck!"
+                }
+            }
+        ],
+        "chat3": [
+            {
+                "from": {
+                    "type": "user2"
+                },
+                "msg": {
+                    "message": "Have you seen the latest episode of that show?"
+                }
+            },
+            {
+                "from": {
+                    "type": "user1"
+                },
+                "msg": {
+                    "message": "Not yet! No spoilers, please!"
+                }
+            },
+            {
+                "from": {
+                    "type": "user2"
+                },
+                "msg": {
+                    "message": "I won't! But it's really intense."
+                }
+            },
+            {
+                "from": {
+                    "type": "user1"
+                },
+                "msg": {
+                    "message": "I can't wait to watch it tonight!"
+                }
+            }
+        ],
+        "chat4": [
+            {
+                "from": {
+                    "type": "user1"
+                },
+                "msg": {
+                    "message": "Are you free this weekend?"
+                }
+            },
+            {
+                "from": {
+                    "type": "user2"
+                },
+                "msg": {
+                    "message": "Yes, I am! What's up?"
+                }
+            },
+            {
+                "from": {
+                    "type": "user1"
+                },
+                "msg": {
+                    "message": "Let's go to the new café that opened."
+                }
+            },
+            {
+                "from": {
+                    "type": "user2"
+                },
+                "msg": {
+                    "message": "Sounds good! I've heard their coffee is amazing."
+                }
+            },
+            {
+                "from": {
+                    "type": "user1"
+                },
+                "msg": {
+                    "message": "Perfect! What time should we meet?"
+                }
+            }
+        ],
+        "chat5": [
+            {
+                "from": {
+                    "type": "user1"
+                },
+                "msg": {
+                    "message": "Are you excited for the concert next week?"
+                }
+            },
+            {
+                "from": {
+                    "type": "user2"
+                },
+                "msg": {
+                    "message": "Absolutely! I can't wait to see them live!"
+                }
+            },
+            {
+                "from": {
+                    "type": "user1"
+                },
+                "msg": {
+                    "message": "It's going to be epic! Have you listened to their new album?"
+                }
+            },
+            {
+                "from": {
+                    "type": "user2"
+                },
+                "msg": {
+                    "message": "Yes! It's amazing! I have a favorite track already."
+                }
+            },
+            {
+                "from": {
+                    "type": "user1"
+                },
+                "msg": {
+                    "message": "Me too! Let's sing our hearts out!"
+                }
+            }
+        ],
+        "chat6": [
+            {
+                "from": {
+                    "type": "user1"
+                },
+                "msg": {
+                    "message": "What are your plans for the holidays?"
+                }
+            },
+            {
+                "from": {
+                    "type": "user2"
+                },
+                "msg": {
+                    "message": "I’m planning to visit family. How about you?"
+                }
+            },
+            {
+                "from": {
+                    "type": "user1"
+                },
+                "msg": {
+                    "message": "I'm staying in the city, but I might take a short trip."
+                }
+            },
+            {
+                "from": {
+                    "type": "user2"
+                },
+                "msg": {
+                    "message": "That sounds nice! Any place in mind?"
+                }
+            },
+            {
+                "from": {
+                    "type": "user1"
+                },
+                "msg": {
+                    "message": "Maybe the beach? I need some sun!"
+                }
+            }
+        ]
+    }
+}
