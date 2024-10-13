@@ -13,7 +13,7 @@ const MessagesOnChatBox = ({chatData}) => {
             <div
               className={`p-3 text-white max-w-fit w-[70%] text-start  ${
                 chat.from.type === "user1"
-                  ? "bg-white text-black rounded-t-full rounded-r-full rounded-bl-none"
+                  ? "bg-white text-black/100 rounded-t-full rounded-r-full rounded-bl-none"
                   : "bg-blue-500 rounded-t-xl rounded-l-xl rounded-br-none ml-auto"
               }`}
             >
