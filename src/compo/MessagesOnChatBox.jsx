@@ -3,7 +3,7 @@ import SendMessage from "./SendMessage";
 
 const MessagesOnChatBox = ({chatData}) => {
   return (
-    <div className="h-full bg-gray-200 justify-start items-start p-7 flex flex-col">
+    <div className="h-full bg-gray-200 justify-start items-start sm:p-7 p-5 flex flex-col">
       <div className="w-full max-w-full">
         {chatData.map((chat, index) => (
           <div
